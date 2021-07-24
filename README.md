@@ -39,3 +39,5 @@ Overriding methods
 Delegation
 
 Higher order functions
+
+- We are team of 3
