@@ -5,7 +5,7 @@
 
 - In this implementation, we leveraged different features from multiple programming paradigms.
 
-- Overview:
+- Overview :
 
 We need to implement a Binary Search Tree (BST). The nodes of the tree are of an abstract type named Fruit. This abstract type is the parent class of all types that can be in the tree such as Apple, Orange, Banana, Avocado, … etc.
 
@@ -15,9 +15,9 @@ It is encouraged that you have a hierarchy of fruits types according to their si
 
 The only common feature of all the fruits is the weight. The BST uses the weight attribute to order its nodes where at a given node all the nodes at its right side are heavier than it, and all nodes at its left are lighter than it.
 
-- Requirements:
+- Requirements :
 
-It is required to implement the Fruits Tree using three different languages:
+It is required to implement the Fruits Tree using three different languages :
 
 C++ as an example of Class-based Object Oriented Language
 JavaScript as an example of Prototype-based Object Oriented Language
